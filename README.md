@@ -1,4 +1,3 @@
-<!-- fallback_RhoCrypto_20260512040219_29167 -->
 
 # RhoCrypto: Data Sovereignty Fabric enabled by RhoCrypto's Scalable Secure Attestation Network Architecture Hub Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
